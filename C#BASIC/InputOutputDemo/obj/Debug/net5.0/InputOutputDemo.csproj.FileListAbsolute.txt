@@ -1,0 +1,15 @@
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.exe
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.deps.json
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.runtimeconfig.json
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.runtimeconfig.dev.json
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.dll
+D:\ConsoleApps\InputOutputDemo\bin\Debug\net5.0\InputOutputDemo.pdb
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.AssemblyInfoInputs.cache
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.AssemblyInfo.cs
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.dll
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\refint\InputOutputDemo.dll
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.pdb
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\InputOutputDemo.genruntimeconfig.cache
+D:\ConsoleApps\InputOutputDemo\obj\Debug\net5.0\ref\InputOutputDemo.dll

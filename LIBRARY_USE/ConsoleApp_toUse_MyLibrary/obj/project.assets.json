@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CurrencyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CurrencyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CurrencyLib.dll": {}
+        }
+      },
+      "MyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CurrencyLib/1.0.0": {
+      "type": "project",
+      "path": "../CurrencyLib/CurrencyLib.csproj",
+      "msbuildProject": "../CurrencyLib/CurrencyLib.csproj"
+    },
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyLibrary/MyLibrary.csproj",
+      "msbuildProject": "../MyLibrary/MyLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CurrencyLib >= 1.0.0",
+      "MyLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\akshay.mashale\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ConsoleApps\\ConsoleApp_toUse_MyLibrary\\ConsoleApp_toUse_MyLibrary.csproj",
+      "projectName": "ConsoleApp_toUse_MyLibrary",
+      "projectPath": "D:\\ConsoleApps\\ConsoleApp_toUse_MyLibrary\\ConsoleApp_toUse_MyLibrary.csproj",
+      "packagesPath": "C:\\Users\\akshay.mashale\\.nuget\\packages\\",
+      "outputPath": "D:\\ConsoleApps\\ConsoleApp_toUse_MyLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\akshay.mashale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\ConsoleApps\\CurrencyLib\\CurrencyLib.csproj": {
+              "projectPath": "D:\\ConsoleApps\\CurrencyLib\\CurrencyLib.csproj"
+            },
+            "D:\\ConsoleApps\\MyLibrary\\MyLibrary.csproj": {
+              "projectPath": "D:\\ConsoleApps\\MyLibrary\\MyLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

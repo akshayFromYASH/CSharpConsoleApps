@@ -1,0 +1,14 @@
+D:\TPL_Task_Demo\bin\Debug\net8.0\TPL_Task_Demo.exe
+D:\TPL_Task_Demo\bin\Debug\net8.0\TPL_Task_Demo.deps.json
+D:\TPL_Task_Demo\bin\Debug\net8.0\TPL_Task_Demo.runtimeconfig.json
+D:\TPL_Task_Demo\bin\Debug\net8.0\TPL_Task_Demo.dll
+D:\TPL_Task_Demo\bin\Debug\net8.0\TPL_Task_Demo.pdb
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.AssemblyInfoInputs.cache
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.AssemblyInfo.cs
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.csproj.CoreCompileInputs.cache
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.dll
+D:\TPL_Task_Demo\obj\Debug\net8.0\refint\TPL_Task_Demo.dll
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.pdb
+D:\TPL_Task_Demo\obj\Debug\net8.0\TPL_Task_Demo.genruntimeconfig.cache
+D:\TPL_Task_Demo\obj\Debug\net8.0\ref\TPL_Task_Demo.dll

@@ -1,0 +1,15 @@
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.exe
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.deps.json
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.runtimeconfig.json
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.runtimeconfig.dev.json
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.dll
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\bin\Debug\net5.0\Class_Object_Modifiers_Constructor.pdb
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.AssemblyInfoInputs.cache
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.AssemblyInfo.cs
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.dll
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\refint\Class_Object_Modifiers_Constructor.dll
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.pdb
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\Class_Object_Modifiers_Constructor.genruntimeconfig.cache
+D:\ConsoleApps\Class_Object_Modifiers_Constructor\obj\Debug\net5.0\ref\Class_Object_Modifiers_Constructor.dll

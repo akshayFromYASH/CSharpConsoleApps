@@ -1,0 +1,11 @@
+D:\ConsoleApps\CurrencyLib\bin\Debug\net8.0\CurrencyLib.deps.json
+D:\ConsoleApps\CurrencyLib\bin\Debug\net8.0\CurrencyLib.dll
+D:\ConsoleApps\CurrencyLib\bin\Debug\net8.0\CurrencyLib.pdb
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.AssemblyInfoInputs.cache
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.AssemblyInfo.cs
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.dll
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\refint\CurrencyLib.dll
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\CurrencyLib.pdb
+D:\ConsoleApps\CurrencyLib\obj\Debug\net8.0\ref\CurrencyLib.dll

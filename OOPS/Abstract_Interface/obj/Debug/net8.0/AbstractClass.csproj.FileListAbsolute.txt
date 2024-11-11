@@ -1,0 +1,14 @@
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Abstract_Interface\bin\Debug\net8.0\AbstractClass.exe
+D:\ConsoleApps\Abstract_Interface\bin\Debug\net8.0\AbstractClass.deps.json
+D:\ConsoleApps\Abstract_Interface\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+D:\ConsoleApps\Abstract_Interface\bin\Debug\net8.0\AbstractClass.dll
+D:\ConsoleApps\Abstract_Interface\bin\Debug\net8.0\AbstractClass.pdb
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.dll
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\refint\AbstractClass.dll
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.pdb
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+D:\ConsoleApps\Abstract_Interface\obj\Debug\net8.0\ref\AbstractClass.dll

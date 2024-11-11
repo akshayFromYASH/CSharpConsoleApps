@@ -1,0 +1,14 @@
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfoInputs.cache
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfo.cs
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\IndexerExample\bin\Debug\net8.0\IndexerExample.exe
+D:\ConsoleApps\IndexerExample\bin\Debug\net8.0\IndexerExample.deps.json
+D:\ConsoleApps\IndexerExample\bin\Debug\net8.0\IndexerExample.runtimeconfig.json
+D:\ConsoleApps\IndexerExample\bin\Debug\net8.0\IndexerExample.dll
+D:\ConsoleApps\IndexerExample\bin\Debug\net8.0\IndexerExample.pdb
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.dll
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\refint\IndexerExample.dll
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.pdb
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\IndexerExample.genruntimeconfig.cache
+D:\ConsoleApps\IndexerExample\obj\Debug\net8.0\ref\IndexerExample.dll
