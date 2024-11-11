@@ -1,0 +1,10 @@
+========================= Creating GIT Repository ==================
+git init
+git add .
+git status
+git add "CLICommangs.docx"
+git config --global user.email"akshay.mashale@yash.com"
+git config --global user.name"akshayFromYASH"
+git remote add origin <github repository URL>
+git commit -m "<commit name>"
+git push -u origin master
